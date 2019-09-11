@@ -1,2 +1,2 @@
 # hotel-onix
-Codigo del sitio web (landig-page) para el hotel Onix
+Codigo del sitio web (landing-page) para el hotel Onix
