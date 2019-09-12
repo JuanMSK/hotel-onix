@@ -1,0 +1,6 @@
+bienvenidos=>Bienvenidos a mi sitio
+inicio=>Inicio
+sobre-nosotros=>Sobre Nosotros
+servicios=>Servicios
+contacto=>Contacto
+un-gran-hotel=>un Gran Hotel

@@ -1,0 +1,6 @@
+bienvenidos=>Welcome to my site
+inicio=>Home
+sobre-nosotros=>About us
+servicios=>Services
+contacto=>Contact
+un-gran-hotel=>a Great hotel
