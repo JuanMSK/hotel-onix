@@ -4,3 +4,4 @@ sobre-nosotros=>About us
 servicios=>Services
 contacto=>Contact
 un-gran-hotel=>a Great hotel
+habitaciones=>ROOMS
