@@ -400,7 +400,7 @@ h1, h2, h3, h4, h5, h6,
           visibility: visible;
           opacity: 1; }
   .site-navbar.scrolled {
-    background-color: #fff;
+    background-color: #000;
     position: fixed;
     width: 100%;
     left: 0;
@@ -421,13 +421,13 @@ h1, h2, h3, h4, h5, h6,
       -o-transition: .3s all ease-out;
       transition: .3s all ease-out; }
     .site-navbar.scrolled .site-menu-toggle {
-      color: #000; }
+      color: #fff; }
     .site-navbar.scrolled .site-navigation .site-menu li a {
-      color: #000; }
+      color: #fff; }
       .site-navbar.scrolled .site-navigation .site-menu li a.active {
-        color: #f16821; }
+        color: #fff; }
     .site-navbar.scrolled .site-logo a {
-      color: #000 !important; }
+      color: #fff !important; }
 
 .site-mobile-menu {
   width: 300px;
