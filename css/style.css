@@ -1485,9 +1485,26 @@ h1, h2, h3, h4, h5, h6,
   } 
 
   /* Ajustar el tamanio de las letras en la zona de "sobre nosotros" */
-
   @media (max-width: 992px) {
     .textoNosotros {
         font-size: 0.7rem;
     }
+}
+
+/* ajustar el carrusel para moviles */
+@media (max-width: 706px) {
+  .modalDialog > div {
+    width: 400px;
+    position: relative;
+    margin: 60% auto;
+    padding: 5px 20px 13px 20px;
+    border-radius: 10px;
+    background: #fff;
+    background: -moz-linear-gradient(#fff, #999);
+    background: -webkit-linear-gradient(#fff, #999);
+    background: -o-linear-gradient(#fff, #999);
+    -webkit-transition: opacity 400ms ease-in;
+  -moz-transition: opacity 400ms ease-in;
+  transition: opacity 400ms ease-in;
+  }
 }
