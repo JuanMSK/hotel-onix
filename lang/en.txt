@@ -5,3 +5,6 @@ servicios=>Services
 contacto=>Contact
 un-gran-hotel=>a Great hotel
 habitaciones=>ROOMS
+introduccion=>In Onyx Hotel we make true the request of our clients that are looking for some place to relax  and enjoy moments with their couple or friends. 
+introduccion2=>All our facilities and luxuries are thinking for two.
+introduccion3=>we offer a perfect place for all the couples that want to enjoy a romantic stay. Or even single people who are passing through our city.
