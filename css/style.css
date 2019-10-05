@@ -1425,7 +1425,7 @@ h1, h2, h3, h4, h5, h6,
   .modalDialog {
     position: fixed;
     font-family: Arial, Helvetica, sans-serif;
-    top: 0;
+    top: -80px;
     right: 0;
     bottom: 0;
     left: 0;
@@ -1485,9 +1485,16 @@ h1, h2, h3, h4, h5, h6,
   } 
 
   /* Ajustar el tamanio de las letras en la zona de "sobre nosotros" */
-
   @media (max-width: 992px) {
     .textoNosotros {
         font-size: 0.7rem;
     }
+}
+
+/* ajustar el carrusel para moviles */
+@media (max-width: 706px) {
+  .modalDialog > div {
+    width: 95%;
+    margin: 60% auto;
+  }
 }
