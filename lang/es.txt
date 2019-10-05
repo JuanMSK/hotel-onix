@@ -5,3 +5,6 @@ servicios=>Servicios
 contacto=>Contacto
 un-gran-hotel=>un Gran Hotel
 habitaciones=>habitaciones
+introduccion=>En el Hotel Onyx satisfacemos las necesidades de nuestros clientes que buscan relajarse y disfrutar momentos en pareja o amigos.
+introduccion2=>Todas las instalaciones, asi como todos los pequeños lujos y comodidades están pensadas para dos.
+introduccion3=>Ofrecemos un lugar perfecto para parejas que quieren disfrutar una estancia romántica o simplemente personas solas que se encuentran de paso en nuestra ciudad.
