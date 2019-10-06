@@ -399,3 +399,18 @@ $(document).ready(function(){
     };  
   });
 // hasta aca es el scrip del traductor de idioma
+// desde aca el cambio de icono al logo de idioma
+
+alternar=false;
+var palabra = document.querySelector("#idioma")
+palabra.addEventListener("click", function(){
+	var icono = document.querySelector("#iconoidioma");
+	icono.src="fonts/spanish-language.svg";
+	console.log("hola");
+	console.log(alternar);
+	alternar=true;
+
+	
+})
+
+// hasta aca el cambio de icono al logo de idioma

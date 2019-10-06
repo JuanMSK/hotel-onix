@@ -1498,3 +1498,26 @@ h1, h2, h3, h4, h5, h6,
     margin: 60% auto;
   }
 }
+
+/* icono de el checkbox inicial */
+.iconoburbuja li:before {
+  left: 0;
+  font-size: 20px;
+  top: -.3rem;
+  font-family: "icomoon";
+  content: "\f236";
+  position: absolute;
+  color:#fff }
+
+/* texto inicial */
+ .inicio{
+   color: white;
+   size: 2rem;
+   padding-top: 250px;
+ }
+
+ /* aire acondicionado */
+.idioma{
+  height:30px;
+  width:30px;  
+}
