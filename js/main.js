@@ -414,4 +414,5 @@ palabra.addEventListener("click", function(){
     }
 })
 
+
 // hasta aca el cambio de icono al logo de idioma
