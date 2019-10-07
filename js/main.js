@@ -402,15 +402,16 @@ $(document).ready(function(){
 // desde aca el cambio de icono al logo de idioma
 
 alternar=false;
-var palabra = document.querySelector("#idioma")
+var palabra = document.querySelector("#idioma");
+var icono =document.querySelector("#iconoidioma");
 palabra.addEventListener("click", function(){
-	var icono = document.querySelector("#iconoidioma");
-	icono.src="fonts/spanish-language.svg";
-	console.log("hola");
-	console.log(alternar);
-	alternar=true;
-
-	
+	if (alternar==false) {
+		icono.src="fonts/spanish-language.svg";
+		alternar=true;
+    } else{
+		icono.src="fonts/english-language.svg";
+        alternar=false;
+    }
 })
 
 // hasta aca el cambio de icono al logo de idioma
