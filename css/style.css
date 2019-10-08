@@ -1,9 +1,10 @@
 /* Base */
 body {
   line-height: 1.7;
-  color: #4d4d4d;
+  color: #fff;
   font-weight: 300;
-  font-size: 1rem; }
+  font-size: 1rem;
+  background: #000; }
 
 ::-moz-selection {
   background: #000;
@@ -1319,7 +1320,7 @@ h1, h2, h3, h4, h5, h6,
     bottom: 0;
     width: 80px;
     height: 3px;
-    background: #f16821; }
+    background: #A2231D; }
   .border-primary.text-center:after {
     left: 50%;
     -webkit-transform: translateX(-50%);
