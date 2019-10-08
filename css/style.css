@@ -915,7 +915,7 @@ h1, h2, h3, h4, h5, h6,
       display: inline-block;
       padding: 20px;
       font-size: 30px;
-      color: #000; }
+      color: #fff; }
       .block-13 .owl-nav .owl-prev.disabled, .block-13 .owl-nav .owl-next.disabled, .slide-one-item .owl-nav .owl-prev.disabled, .slide-one-item .owl-nav .owl-next.disabled {
         opacity: .2; }
 
