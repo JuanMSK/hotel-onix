@@ -1523,3 +1523,9 @@ h1, h2, h3, h4, h5, h6,
   width:25px;
   margin-left: 5px;  
 }
+
+/* Centrar los iconos de la seccion Servicios*/
+#servCol {
+  margin: 0%;
+  padding-left: 200px;
+}
