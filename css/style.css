@@ -1492,11 +1492,29 @@ h1, h2, h3, h4, h5, h6,
     }
 }
 
-/* ajustar el carrusel para moviles */
+/*alternar el mensaje principal entre logo y texto en moviles */
+.mostrar{
+  display: none;
+}
+@media (max-width: 992px) {
+  .ocultar{
+    display: none;
+  }
+  .mostrar{
+    display: block;
+  }
+}
+/* ajustar el carrusel para moviles*/
 @media (max-width: 706px) {
   .modalDialog > div {
     width: 95%;
     margin: 60% auto;
+  }
+  .ocultar{
+    display: none;
+  }
+  .mostrar{
+    display: block;
   }
 }
 
